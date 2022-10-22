@@ -692,8 +692,8 @@ input[type="checkbox"] { display: inline; }
 /* block grids
 --------------------------------------------------------------------- */
 .bgrid-sixths [class*="column"]   { width: 16.66667%; }
-.bgrid-quarters [class*="column"] { width: 25%; }
-.bgrid-thirds [class*="column"]   { width: 33.33333%; }
+.bgrid-quarters [class*="column"] { width: 50%; }
+.bgrid-thirds [class*="column"]   { width: 80%; }
 .bgrid-halves [class*="column"]   { width: 50%; }
 
 [class*="bgrid"] [class*="column"] + [class*="column"]:last-child { float: left; }
@@ -711,7 +711,7 @@ properly.
 
    /* block grids on small screens */
    .s-bgrid-sixths [class*="column"]   { width: 16.66667%; }
-   .s-bgrid-quarters [class*="column"] { width: 25%; }
+   .s-bgrid-quarters [class*="column"] { width: 50%; }
    .s-bgrid-thirds [class*="column"]   { width: 33.33333%; }
    .s-bgrid-halves [class*="column"]   { width: 50%; }
 
@@ -723,7 +723,7 @@ properly.
 
 /* mobile wide/smaller tablets
 --------------------------------------------------------------- */
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 800px) {
 
    .row {
 	   width: 460px;

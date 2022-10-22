@@ -445,7 +445,7 @@ ul#nav li.current a { color: #F06000; }
 	transition: all 0.3s ease-in-out;
 }
 .portfolio-item .item-wrap a {
-   display: block;
+   display: flex;
    cursor: pointer;
 }
 
@@ -469,7 +469,7 @@ ul#nav li.current a { color: #F06000; }
    background: url(../images/overlay-bg.png) repeat;
 }
 .portfolio-item .item-wrap .link-icon {
-   display: block;
+   display: flex;
    color: #fff;
    height: 30px;
    width: 30px;
