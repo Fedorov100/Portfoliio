@@ -4,12 +4,11 @@
     "occupation": "Full Stack and Blockchain Developer",
     "description": "",
     "image": "profilepic.jpg",
-    "bio": "Hello, Everyone. I'm Professional Blockchain, Web developer with 6 years of experience. My development is always tailored to be of top-tier quality, to be associated with well-documented notes and instructions for the client & future developers, while maintaining full development security using technological audits, thorough testing and proven protection-building against malicious parties/hackers. I'm highly skilled in React, JavaScript, Typescript, Angular, Python, Selenium, PHP, Laravel, Three.js, Web3.js, Solidity and Rust programming languages. I have good experiences of Decentralized Application Development(CEX/DEX and Staking/ Defi Dapps), Smart contract Development, NFT Minting site/Marketplace Development, Cryptocurrency & Token Creation/ Launchpad, Web application Development. When working on a new project, I like to speak with clients so that I can have a clear understanding of their requirements and vision of the project and can implement perfectly. If you are interested me, please send me message and then we will arrange a call at your convenience. Have a great day and I look forward to speaking soon.",
+    "bio": "Hello, Everyone. I'm Professional Blockchain, Web developer with 6 years of experience. My development is always tailored to be of top-tier quality, to be associated with well-documented notes and instructions for the client & future developers, while maintaining full development security using technological audits, through testing and proven protection-building against malicious parties/hackers. I'm highly skilled in React, JavaScript, Typescript, Angular, Python, Selenium, PHP, Laravel, Three.js, Web3.js, Solidity and Rust programming languages. I have good experiences of Decentralized Application Development(CEX/DEX and Staking/ Defi Dapps), Smart contract Development, NFT Minting site/Marketplace Development, Cryptocurrency & Token Creation/ Launchpad, Web application Development. When working on a new project, I like to speak with clients so that I can have a clear understanding of their requirements and vision of the project and can implement perfectly. If you are interested me, please send me message and then we will arrange a call at your convenience. Have a great day and I look forward to speaking soon.",
     "contactmessage": "Have a project for me? Think I'd be a good fit for your team? I'd love to hear from you, give me a shout by email or by using the form below if you'd like to get in contact with me.",
-    "Warning": " Warning: Contact form not yet configured, please contact me via normal email for now",
     "email": "truesight9705@gmail.com",
     "phone": "+1 321 257 8668",
-    "telegram": "https://t.me/TTtony00",
+    "telegram": "https://t.me/Fukudashi",
     "skype":"live:.cid.7c0f73c7c0c419a0",
     "address": {
       "street": "Hikaridai, Imakane- cho",
@@ -17,7 +16,7 @@
       "state": "Hokkaido",
       "zip": "174-1109"
     },
-    "website": "http://www.Hukudadev.com",
+    "website": "http://Hukudadev.onrender.com",
     "resumedownload": "http://Hukudadev.com",
     "social": [
       {
@@ -53,21 +52,36 @@
       {
         "school": "Chiba University",
         "degree": "Bachelor of Computer Science, Software Engineering Option",
-        "graduated": "April 2014",
+        "graduated": "April 2015",
         "description": "Here I took my Bachelors of Computer Science with a Software Engineering Specialty and achieved a much more thorough education in the underlying theory, concepts, and science behind more complex programming. It was here that I discovered my passion for scalable application programming (web and mobile), the security behind computer and application systems, and found that I have a knack for understanding complex algorithms."
-      },
-      {
-        "school": "Grande Prairie Regional College",
-        "degree": "Computer System Technology",
-        "graduated": "March 2010",
-        "description": " I studied Computer Systems Technology, a 2 year lead-in to a Bachelors of Computer Science. This was a very hands-on experience focused more on building projects than general theory. Here I built database structures for fictional companies, created small video games, hand-coded Space Invaders from scratch in Assembly Language, built and coded an Arduino Robot to navigate obstacle courses, a lot of Java and C++ programming for data structures, and much more."
       }
     ],
     "work": [
       {
+        "company": "Maxos",
+        "title": "Senior Blockchain Developer ",
+        "years": "December 2021 - Setember 2022",
+        "description1": "- Implemented Smart contracts to protocols for new DeFi financial services(launch Pool)",
+        "description2": "- Implemented JavaScript transactions to use in React front-end.",
+        "description3": "- Created and submit blockchain transactions from JSclients.",
+        "description4": "- Set up new projects with repositories and builds and tests. ",
+        "description5": "- Implemented security to contracts that handle money."
+      },
+      {
+        "company": "Prime Protocol",
+        "title": "Senior Smart contract developer",
+        "years": "Octember 2020 - Setember 2021",
+        "description1": "- Improved functionalities and pipeline integration by designing and implementing Smart Contract Security Audit from SlowMist.",
+        "description2": "- Built decentralized exchange and decentralized finance contract with Rust language. ",
+        "description3": "- Contributed to an 23% rise in subscribers for 8 months by enhancing the player experience on all supported client platforms.",
+        "description4": "- Implemented contracts using Anchor frameworks and Rust language.",
+        "description5": "- Ensured tight cooperation with other engineers, designers, and artists through active listening, systematic communication, and leadership skills.",
+        "description6": "- Fixed bugs and problems across the entire team members in an efficient, timely manner."
+      },
+      {
         "company": "NRI",
         "title": "Full Stack Blockchain Developer ",
-        "years": "March 2018 - Present",
+        "years": "May 2018 - August 2020",
         "description1": "- Managed both back-end and front-end aspects of development process.",
         "description2": "- Completed code debugging and implemented fixes to resolve problems based on priority system. ",
         "description3": "- Developed/Enhanced new pages with fixing current issues in frontend (react.js + next.js) ",
@@ -82,7 +96,7 @@
       {
         "company": "F12.NET",
         "title": "UI/UX Designer and Software Developer ",
-        "years": "April 2014 - February 2016",
+        "years": "April 2015 - February 2016",
         "description1": "- I worked in Artificial Intelligence, custom software development, enterprise app modernization.",
         "description2": "- Done lots of Research tasks given by my Boss.",
         "description3": "- Done various website design with Html and CSS."

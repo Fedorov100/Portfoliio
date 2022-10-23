@@ -19,7 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
-              <li>&copy; Copyright 2017 Nakamoto Hukudashi</li>
+              <li>&copy; Copyright 2017 Nakamoto Hukuda</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/" target="_blank">Styleshout</a></li>
            </ul>
 
