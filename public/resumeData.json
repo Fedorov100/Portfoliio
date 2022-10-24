@@ -156,15 +156,15 @@
   "portfolio": {
     "projects": [
       {
-        "title": "CYOP",
+        "title": "Cyop",
         "category": "Cyop protocol",
-        "image": "cyop.PNG",
+        "image": "cyop.png",
         "url": "https://cyop.io"
       },
       {
-        "title": "Learn with Socrates",
+        "title": "Socrates",
         "category": "Learn with Socrates",
-        "image": "socrates.PNG",
+        "image": "socrates.png",
         "url": "https://practiceplaygrow.com/"
       },
       {
@@ -180,9 +180,9 @@
         "url": "https://ecodollar.org/"
       },
       {
-        "title": "Taptrust demo",
+        "title": "Demo-taptrust",
         "category": "Quadarata KYC NFT and demo token",
-        "image": "demo-taptrust.PNG",
+        "image": "demo-taptrust.png",
         "url": "https://demo.taptrust.com/"
       },
       {
