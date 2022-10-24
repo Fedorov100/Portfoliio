@@ -437,7 +437,7 @@ ul#nav li.current a { color: #F06000; }
    background: #fff;
    overflow: hidden;
    position: relative;
-   max-height: 210px;
+   height: 220px;
    -webkit-transition: all 0.3s ease-in-out;
 	-moz-transition: all 0.3s ease-in-out;
 	-o-transition: all 0.3s ease-in-out;
@@ -471,8 +471,8 @@ ul#nav li.current a { color: #F06000; }
 .portfolio-item .item-wrap .link-icon {
    display: block;
    color: #fff;
-   height: 50px;
-   width: 50px;
+   height: 30px;
+   width: 30px;
    font-size: 18px;
    line-height: 30px;
    text-align: center;
